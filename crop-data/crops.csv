@@ -1,0 +1,61 @@
+id,crop_id,name,crop_category,crop_rating,timestamp
+1,100,Eggplant,Vegetables,4,1619533809
+2,101,Okra,Vegetables,5,1619533809
+3,102,Beet,Vegetables,2,1619533809
+4,103,Green cabbage,Vegetables,3,1619533809
+5,104,Leek,Vegetables,4,1619533809
+6,105,Spiny gourd,Vegetables,1,1619533809
+7,106,Snake gourd,Vegetables,3,1619533809
+8,107,King coconut,Fruits,2,1619533672
+9,108,Coconut,Fruits,5,1619533809
+10,109,Cinnamon,Spices,5,1619533672
+11,110,Bitter gourd,Vegetables,4,1619533809
+12,111,Mangosteen,Fruits,3,1619533809
+13,112,Wood apple,Fruits,3,1619533809
+14,113,Dragon fruit,Fruits,4,1619533809
+15,114,Cashew,Seeds,3,1619533809
+16,115,Green beans,Vegetables,3,1619533809
+17,116,Corn,Grains,5,1619533809
+18,117,Green chili,Vegetables,4,1619533809
+19,118,Bell pepper chili,Vegetables,5,1619533809
+20,119,Broad chili,Vegetables,4,1619533809
+21,120,Cucumber,Vegetables,3,1619533809
+22,121,Red pepper chili,Vegetables,1,1619533809
+23,122,Broccoli,Vegetables,2,1619533809
+24,123,Bird's eye chili,Vegetables,3,1619533809
+25,124,Cobra pepper chili,Vegetables,2,1619533809
+26,125,Papaya,Fruits,4,1619533809
+27,126,Tomato,Vegetables,4,1619533809
+28,127,Red cabbage,Vegetables,3,1619533809
+29,128,Ginger,Spice,5,1619533809
+30,129,Turmeric,Spice,5,1619533809
+31,130,Lemon,Fruits,2,1619533809
+32,131,Lime,Fruits,3,1619533809
+33,132,Lemon grass,Spices,4,1619533809
+34,133,Local potatoes,Vegetables,4,1619533809
+35,134,Manioc,Vegetables,5,1619533809
+36,135,Water spinach,Vegetables,4,1619533809
+37,136,Cooking melon,Fruits,3,1619533809
+38,137,Carrot,Vegetables,3,1619533809
+39,138,Yellow beans,Vegetables,3,1619533809
+40,139,Peanut,Grains,3,1619533809
+41,140,Garlic,Spices,4,1619533809
+42,141,Big onion,Vegetables,3,1619533809
+43,142,Pumpkin,Vegetables,4,1619533809
+44,143,Raddish,Vegetables,4,1619533809
+45,144,Red onion,Vegetables,5,1619533809
+46,145,Long beans,Vegetables,2,1619533809
+47,146,Wild cabbage,Vegetables,3,1619533809
+48,147,Ridge gourd,Vegetables,4,1619533809
+49,148,Sweet potatoes,Vegetables,5,1619533809
+50,149,Red Rice,Grains,5,1619533809
+51,150,White Rice,Grains,5,1619533809
+52,151,Gherkins,Vegetables,4,1619533809
+53,152,Mango,Fruits,4,1619533809
+54,153,Water Melon,Fruits,3,1619533809
+55,154,Pepper,Spices,4,1619533809
+56,155,Cardamom,Spices,5,1619533809
+57,156,Mushroom,Vegetables,3,1619533809
+58,157,Pea,Grains,2,1619533809
+59,158,Spinach,Vegetables,4,1619533809
+60,159,Green onion,Vegetables,3,1619533809
